@@ -1,0 +1,9 @@
+{
+  "name": "@org/tool-a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@org/tool-b": "file:../tool-b"
+  }
+}
